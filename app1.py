@@ -6,7 +6,7 @@ import gtts
 from io import BytesIO
 
 # Configure the Generative AI API key
-genai.configure(api_key="AIzaSyCmoyiLaXLT-dewnC3L7klTllJOyU49ImA")
+genai.configure(api_key="")
 
 # Prompt for summarization
 prompt = """You are a YouTube video summarizer. You will be taking the transcript text
